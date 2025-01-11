@@ -1,0 +1,1 @@
+This project was for creation of simple chatbot using Langgraph to have hand-on learning on langgraph and langchain
